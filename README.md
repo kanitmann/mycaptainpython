@@ -1,2 +1,2 @@
 # mycaptainpython
-mycaptain python for September 2019-20
+mycaptain python tasks for September 2019-20
